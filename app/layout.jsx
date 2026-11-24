@@ -1,0 +1,1 @@
+import "./globals.css";export const metadata={title:"Form / Field — Architecture & Interiors",description:"Independent architecture practice creating enduring places through material honesty and considered detail."};export default function RootLayout({children}){return <html lang="en"><body>{children}</body></html>}
